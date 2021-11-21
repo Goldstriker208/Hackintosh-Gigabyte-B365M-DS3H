@@ -19,7 +19,7 @@ In order to get WIFI and Blutooth working you will need a [WIFI/Bluetooth Card](
 # What's Not Working
 - Apple DRM such as Apple TV Movies
 - Sidecar
-- WD Black Nvme and probably other nvme drives may crash frequently resulting a kernal panic
+- WD Black NVMe and probably other NVMe drives may crash frequently resulting a kernel panic
 
 # MacOS Version
 - Tested on macOS Catalina 10.15.7
