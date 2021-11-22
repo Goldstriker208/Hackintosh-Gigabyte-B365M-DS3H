@@ -3,7 +3,7 @@
  ![Neofetch](https://raw.githubusercontent.com/Goldstriker208/Gigabyte-B365M-DS3H-Hackintosh/main/Screenshots/Neofetch.png)
  ![About This Mac](https://raw.githubusercontent.com/Goldstriker208/Gigabyte-B365M-DS3H-Hackintosh/main/Screenshots/About%20This%20Mac.png)  
  
- See [Wiki](https://github.com/Goldstriker208/Gigabyte-B365M-DS3H-Hackintosh/wiki).
+ See [Wiki](https://github.com/Goldstriker208/Hackintosh-Gigabyte-B365M-DS3H/wiki).
  
 In order to get WIFI and Blutooth working you will need a [WIFI/Bluetooth Card](https://www.newegg.com/fenvi-fv-t919-pci-express/p/0XM-00JK-00033) that  is compatible is with macOS. The WIFI/Blutooth card I used is the fenvi FV-T919.
   
